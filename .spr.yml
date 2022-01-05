@@ -1,0 +1,7 @@
+githubRepoOwner: imankulov
+githubRepoName: stack-playground
+githubHost: github.com
+requireChecks: true
+requireApproval: true
+githubRemote: origin
+githubBranch: master
